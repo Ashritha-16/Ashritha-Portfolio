@@ -302,6 +302,29 @@ body {
     text-decoration: none;
 }
 
+/* Resume Section */
+
+.resume-buttons{
+margin-top:20px;
+}
+
+.resume-buttons{
+margin-top:20px;
+}
+
+.contact-buttons{
+margin-top:20px;
+}
+
+.contact-phone{
+margin-top:20px;
+color:#e2e8f0;
+}
+
+.contact-phone strong{
+color:#f9a8d4;
+}
+
 /* ================= FOOTER ================= */
 
 footer {
