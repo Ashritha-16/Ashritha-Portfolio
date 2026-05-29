@@ -2,6 +2,10 @@
 
 Passionate Computer Science graduate focused on building responsive web applications, AI-powered solutions, and user-friendly digital experiences.
 
+## 🚀 Live Demo
+
+Portfolio Website: https://ashritha-16.github.io/Ashritha-Portfolio/
+
 ---
 
 ## 🚀 About This Portfolio
@@ -82,7 +86,7 @@ Machine learning-based NLP project using Django and SVM model for detecting depr
 
 ## ⚙️ How To Run The Project
 
-```bash
+```bash id="2gq17q"
 git clone https://github.com/your-username/portfolio.git
 ```
 
