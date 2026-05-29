@@ -1,90 +1,118 @@
-🌐 Gorre Ashritha Portfolio
+# 🌐 Gorre Ashritha Portfolio
 
-Personal portfolio website of Gorre Ashritha showcasing skills, projects, internship experience, resume, and contact information.
+Passionate Computer Science graduate focused on building responsive web applications, AI-powered solutions, and user-friendly digital experiences.
 
-🚀 Live Portfolio
-GitHub: Ashritha-16 GitHub Profile
-LinkedIn: Gorre Ashritha LinkedIn
-📌 About The Portfolio
+---
 
-This portfolio website was built to showcase:
+## 🚀 About This Portfolio
 
-Technical skills
-Web development projects
-AI & Machine Learning projects
-Internship experience
-Resume and contact details
+This portfolio website showcases my:
 
-The website is fully responsive and designed using modern frontend technologies.
+* Technical Skills
+* Web Development Projects
+* AI & Machine Learning Projects
+* Internship Experience
+* Resume & Contact Information
 
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
-Git & GitHub
-✨ Features
-Responsive modern UI
-Smooth navigation sections
-Projects showcase with live demos
-Resume view & download option
-Contact section with social links
-Clean and user-friendly design
-📂 Sections Included
-Home
-About
-Skills
-Projects
-Experience & Education
-Resume
-Contact
-💻 Projects Included
-🤖 SmartChat-AI Web Application
+The portfolio is fully responsive and designed using modern frontend technologies.
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Django
+* Flask
+* SQLite
+* Git & GitHub
+
+---
+
+## ✨ Features
+
+* Responsive Portfolio Design
+* Smooth Navigation
+* Project Showcase Section
+* Resume View & Download
+* Contact Section
+* Modern UI Design
+
+---
+
+## 📂 Portfolio Sections
+
+* Home
+* About
+* Skills
+* Projects
+* Experience
+* Resume
+* Contact
+
+---
+
+## 💻 Featured Projects
+
+### 🤖 SmartChat-AI Web Application
 
 AI-powered chatbot web application built using Flask, SQLite, and Google Gemini API with authentication and chat history support.
 
-GitHub Repository: SmartChat-AI Repository
-Live Demo: SmartChat-AI Live Demo
-🧠 Early Detection of Depression from Social Media
+### 🧠 Early Detection of Depression from Social Media
 
 Machine learning-based NLP project using Django and SVM model for detecting depression from social media posts.
 
-GitHub Repository: Early Detection Project Repository
-🌐 Web Development Projects
+### 🌐 Web Development Projects
 
-Includes:
+* Stopwatch Web App
+* Task Manager
+* Tic Tac Toe
+* Weather App
+* YouTube Clone UI
 
-Stopwatch Web App
-Task Manager
-Tic Tac Toe
-Weather App
-YouTube Clone UI
+---
 
-Repository: Web Development Projects Repository
+## 📸 Portfolio Preview
 
-📁 Project Structure
-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-├── ashritha.jpeg
-├── Gorre-Ashritha-Resume.pdf
-└── README.md
-⚙️ How To Run The Project
-Clone the repository
+(Add your portfolio screenshot here)
+
+---
+
+## ⚙️ How To Run The Project
+
+```bash
 git clone https://github.com/your-username/portfolio.git
-Open the project folder
-cd portfolio
-Run the project
+```
 
-Simply open index.html in your browser.
+Open `index.html` in your browser.
 
-📞 Contact
-Email: ashrithag821@gmail.com
-GitHub: Ashritha-16 GitHub
-LinkedIn: Gorre Ashritha LinkedIn Profile
+---
 
-⭐ Support
+## 📬 Contact Me
+
+* 📧 Email: [ashrithag821@gmail.com](mailto:ashrithag821@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/gorre-ashritha-5115022a8/
+* 💻 GitHub: https://github.com/Ashritha-16
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities in Software Development, Web Development, QA Testing, and IT where I can contribute my skills and continue learning new technologies.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Python
+* Full Stack Development
+* API Integration
+* Backend Development
+
+---
+
+## ⭐ Support
 
 If you like this project, give it a star on GitHub ⭐
